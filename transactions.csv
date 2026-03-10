@@ -1,0 +1,6 @@
+transaction_id,amount,currency,status
+12345,100,USD,Active
+12346,60000,INR,Active
+12347,25000,CAN,Inactive
+12348,500,USD,Active
+12349,15000,GBP,Inactive
